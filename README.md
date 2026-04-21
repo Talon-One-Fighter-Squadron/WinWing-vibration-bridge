@@ -58,7 +58,7 @@ You will need:
 
 > **SimApp Pro should be running while using this mod.**
 
-The mod sends telemetry to the WinWing listener, and **SimApp Pro** is usually what actually drives the hardware vibration.
+The mod sends telemetry to the WinWing listener, and **SimApp Pro** is what actually drives the hardware vibration.
 
 If SimApp Pro is not running, the mod may still send data, but your stick may not vibrate.
 
