@@ -66,7 +66,7 @@ If SimApp Pro is not running, the mod may still send data, but your stick will n
 
 ## Install
 
-Copy the built DLL to:
+Copy the DLL to:
 
 ```text
 <Nuclear Option>\BepInEx\plugins\
