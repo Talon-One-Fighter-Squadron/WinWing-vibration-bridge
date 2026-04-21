@@ -64,24 +64,6 @@ If SimApp Pro is not running, the mod may still send data, but your stick may no
 
 ---
 
-## Build
-
-The included `build.bat` expects Nuclear Option to be installed at:
-
-```text
-C:\Program Files (x86)\Steam\steamapps\common\Nuclear Option
-```
-
-If your game is installed somewhere else, edit `build.bat` and change the `GAME_DIR` path.
-
-Then run:
-
-```bat
-build.bat
-```
-
----
-
 ## Install
 
 Copy the built DLL to:
